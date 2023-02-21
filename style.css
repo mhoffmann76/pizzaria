@@ -119,6 +119,7 @@ h1 {
     font-size:13px;
     color:#555;
     margin-top:10px;
+    text-align: justify;
 }
 
 .pizzaWindowArea {
@@ -171,6 +172,7 @@ h1 {
     color:#999;
     margin-top:10px;
     font-family:'Lato',Helvetica,Arial;
+    
 }
 .pizzaInfo--sector {
     color:#CCC;
